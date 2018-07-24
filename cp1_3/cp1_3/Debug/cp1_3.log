@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(89): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(90): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alial\onedrive - university of houston\1 lifelonglearning\cp1_3\cp1_3\main.c(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cp1_3.vcxproj -> C:\Users\alial\OneDrive - University Of Houston\1 LifeLongLearning\cp1_3\Debug\cp1_3.exe
+  cp1_3.vcxproj -> C:\Users\alial\OneDrive - University Of Houston\1 LifeLongLearning\cp1_3\Debug\cp1_3.pdb (Partial PDB)
